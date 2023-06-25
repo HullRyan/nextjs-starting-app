@@ -10,10 +10,10 @@ export default function NavigationBar() {
 
 	return (
 		<div className="flex gap-10 p-6  border-b-2">
-			<Link href="/" className={path == "/" ? "font-bold" : ""}>
+			<Link href="/nextjs-starting-app" className={path == "/nextjs-starting-app" ? "font-bold" : ""}>
 				Home
 			</Link>
-			<Link href="/about" className={path == "/about" ? "font-bold" : ""}>
+			<Link href="/nextjs-starting-app/about" className={path == "/nextjs-starting-app/about" ? "font-bold" : ""}>
 				About
 			</Link>
 		</div>
