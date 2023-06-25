@@ -1,6 +1,6 @@
 import Image from "next/image";
-import PageDisplay from "../../components/pageDisplay.js";
-import ActionBox from "../../components/ActionBox.js";
+import PageDisplay from "../../components/PageDisplay";
+import ActionBox from "../../components/ActionBox";
 export default function Home() {
 	return (
 		<>

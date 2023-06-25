@@ -1,5 +1,5 @@
-import NavigationBar from "../components/navigationbar.js";
-import Footer from "../components/footer.js";
+import NavigationBar from "../components/navigationbar";
+import Footer from "../components/footer";
 import "./globals.css";
 
 export const metadata = {

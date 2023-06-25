@@ -1,4 +1,4 @@
-import PageDisplay from "../components/pageDisplay.js";
+import PageDisplay from "../components/pageDisplay";
 import Image from "next/image";
 
 export default function Home() {
